@@ -14,3 +14,7 @@ Tập hợp các project nhỏ để học và thực hành IoT trên board **Ra
 - Tool nạp code: [MicroPico](https://marketplace.visualstudio.com/items?itemName=paulober.pico-w-go) (VS Code extension)
 
 ## Projects
+
+| Folder | Mô tả |
+|---|---|
+| [`LCD/`](LCD/) | Hiển thị text lên LCD 20×4 qua I2C (PCF8574) |
