@@ -1,0 +1,28 @@
+# MicroPython / Pico build artifacts
+*.mpy
+*.pyc
+__pycache__/
+
+# Thonny IDE
+.thonny/
+*.thonny-pid
+
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+._*
+
+# VS Code
+.vscode/
+
+# MicroPico extension
+.micropico
+
+# Python virtual environments (nếu dùng local tooling)
+.venv/
+venv/
+env/
+
+# Logs
+*.log
