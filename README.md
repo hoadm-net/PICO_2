@@ -18,3 +18,4 @@ Tập hợp các project nhỏ để học và thực hành IoT trên board **Ra
 | Folder | Mô tả |
 |---|---|
 | [`LCD/`](LCD/) | Hiển thị text lên LCD 20×4 qua I2C (PCF8574) |
+| [`MECANUM_CONTROLLER/`](MECANUM_CONTROLLER/) | Tay cầm joystick truyền lệnh không dây qua NRF24L01 |
